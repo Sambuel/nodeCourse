@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "picocolors": "^1.0.0"
+  }
+}
